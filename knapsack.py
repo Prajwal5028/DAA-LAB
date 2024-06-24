@@ -1,3 +1,4 @@
+
 def knapsack(w,p,n,m):
   v=[[0 for x in range(m+1)] for x in range(n+1)]
   for i in range(n+1):
